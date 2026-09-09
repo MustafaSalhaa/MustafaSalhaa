@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mustafa 👋
 
-<!--
-**Mustafa101000/Mustafa101000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a penetration tester based in Abu Dhabi, raised here, and this is where I built my entire career.
 
-Here are some ideas to get you started:
+I help organizations find security vulnerabilities before attackers do. My work sits at the intersection of technical depth and business risk - I don't just find issues, I help organizations understand what they mean and how to fix them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Help Organizations With
+
+Security isn't just a technical problem, it's a business one. A single vulnerability in the wrong place can expose customer data, halt operations, or damage a brand that took years to build.
+
+I work with organizations to identify those risks across their:
+
+- **Web applications and customer-facing platforms**
+- **Internal networks and enterprise infrastructure**
+- **Microsoft cloud environments (Azure / Entra ID)**
+- **Windows-based corporate environments [AD]**
+
+The outcome is always the same: a clear picture of where the risk is, how serious it is, and what to do about it, in language that makes sense to both technical teams and leadership.
+
+---
+
+## Track Record
+
+- 80+ security engagements delivered across the UAE and the region
+- Clients across banking, government, healthcare, and enterprise
+- Internationally certified in offensive security
+
+**Certifications:**
+✅ eJPTv2 · ✅ eWPTXv3 · ✅ CRTA · 🔄 BSCP
+🔄 CRTP · 🔄 CARTP · *(in progress)*
+
+---
+
+## About Me
+
+Abu Dhabi built me. I grew up here, studied here, and grew from knowing nothing about security into doing this professionally for some of the most critical organizations in the region.
+
+I still treat every engagement like it matters - because it does.
+
+---
+
+📍 Abu Dhabi, UAE · Open to security collaborations and research
