@@ -28,8 +28,7 @@ The outcome is always the same: a clear picture of where the risk is, how seriou
 - Internationally certified in offensive security
 
 **Certifications:**
-✅ eJPTv2 · ✅ eWPTXv3 · ✅ CRTA · 🔄 BSCP
-🔄 CRTP · 🔄 CARTP · *(in progress)*
+✅ eJPTv2 · ✅ eWPTXv3 · ✅ CRTA · 🔄 *(in progress)*
 
 ---
 
